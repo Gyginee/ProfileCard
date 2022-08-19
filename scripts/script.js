@@ -20,5 +20,5 @@ buttons.forEach(btn => {
 });
 
 document.getElementById("contact-me").onclick = function() {
-    window.location.href = "https://www.facebook.com/gygine";
+    window.location.href = "https://www.facebook.com/gyginee";
 };
