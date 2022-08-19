@@ -49,6 +49,7 @@ body {
 
 .card[data-state="#contact"] {
     height: 430px;
+    width: 500px;
 }
 
 .card[data-state="#payment"] {
@@ -56,7 +57,7 @@ body {
 }
 
 .card[data-state="#experience"] {
-    height: 700px;
+    height: 550px;
 }
 
 .card.is-active .card-header {
