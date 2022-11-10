@@ -53,7 +53,7 @@ body {
 }
 
 .card[data-state="#payment"] {
-    height: 550px;
+    height: 525px;
 }
 
 .card[data-state="#experience"] {
