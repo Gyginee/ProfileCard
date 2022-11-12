@@ -22,3 +22,9 @@ buttons.forEach(btn => {
 document.getElementById("contact-me").onclick = function() {
     window.location.href = "https://www.facebook.com/gyginee";
 };
+
+window.onload=function(){
+    document.getElementById("lesson").play();
+    var vid = document.getElementById("lesson");
+    vid.volume = 0.2;
+}
